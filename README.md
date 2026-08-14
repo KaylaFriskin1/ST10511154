@@ -6,4 +6,6 @@ PART 1 WEBDEVELOPMENT ASSIGNMENT
 -  I have a navigation panel
 -  Customers can view the gallery and find the location.
 -  Customers can ask questions by using the enquiry form I created as well.
-
+### Goal Achieved
+- My website does not have any errors, and it is neatly organized for customers to view.
+- ### I did insert an extra file, 
